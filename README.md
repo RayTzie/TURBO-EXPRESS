@@ -10,7 +10,9 @@ Turbo Express Delivery Management System [LIVE RAW LINK](https://magenta-mermaid
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <br>
   
-  #Led by: Carl Trebor Katalbas [Learn More](https://github.com/Trebor-Katalbas/)
+  ##
+
+ # Led by: Carl Trebor Katalbas [Learn More](https://github.com/Trebor-Katalbas/)
 
 </div>
   
