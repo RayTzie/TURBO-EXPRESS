@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d24eeb5.css",
+    "main.js": "/static/js/main.c028fb13.js",
+    "static/media/Head2.jpg": "/static/media/Head2.7a8a752c7aebe846f3fd.jpg",
+    "static/media/turbo-package.png": "/static/media/turbo-package.c86bd1a68e4dc4b6dc8b.png",
+    "static/media/Map.png": "/static/media/Map.5e8c7e8ca5e03d0f157d.png",
+    "static/media/JOP.gif": "/static/media/JOP.a6c466eeb7bddf5b0e69.gif",
+    "static/media/map-bg.jpg": "/static/media/map-bg.7b0d5b699160f501041f.jpg",
+    "static/media/HeadPic.jpg": "/static/media/HeadPic.74c75de9daf97472e261.jpg",
+    "static/media/TurboExp-Logo.png": "/static/media/TurboExp-Logo.a54d1fa7a94cb1485307.png",
+    "static/media/TurboExp-Logo-Black.png": "/static/media/TurboExp-Logo-Black.34df39fb9e2ac55aabe0.png",
+    "static/media/appstore-download.png": "/static/media/appstore-download.484fd36ce9a108c79adf.png",
+    "static/media/playstore-download.png": "/static/media/playstore-download.06cd10d5dcf9c3cf9cbc.png",
+    "index.html": "/index.html",
+    "main.3d24eeb5.css.map": "/static/css/main.3d24eeb5.css.map",
+    "main.c028fb13.js.map": "/static/js/main.c028fb13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d24eeb5.css",
+    "static/js/main.c028fb13.js"
+  ]
+}
