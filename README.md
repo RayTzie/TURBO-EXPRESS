@@ -1,6 +1,6 @@
 ## TURBO EXPRESS  :truck:
 
-Turbo Express Delivery Management System [LIVE RAW LINK](https://magenta-mermaid-f27d7f.netlify.app/)
+Turbo Express Delivery Management System [LIVE LINK](https://magenta-mermaid-f27d7f.netlify.app/)
 
 <div style="display: inline_block"><br>
 
